@@ -8,8 +8,10 @@ Users can expect to find a holistic structure designed to maximize interoperabil
 
 Explore the repository to discover how this approach can transform the way we understand and apply rules in an operational context.
 
-         __      _
-       o'')}____//
-        `_/      )
-        (_(_/-(_/
-
+     ██▄▄▄▄▄▄▄▄▄   
+    ▒▒▒▒▒▒▒▒▒▒▓██  
+   ▀▀▒▒▒▀▀▒▒▒▓▓▓▓█ 
+ ▄▄▄▒▒░    ░░▒▒▒▓█ 
+ ▀▀▀▒▄▄▄   ░░▒▒▒▓█ 
+   █▄░   ░░▒▒▒▒▓▓█ 
+    ▀█▄▄▄▄▄▄▄▄▄▀▀  
